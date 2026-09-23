@@ -1,5 +1,5 @@
 # Cyber_Resilient_Drone (Simulation)
-By - Rohit Dhyani
+By - Rishabh kumar
 
 ## Objects used for simulation
 1. Mobile phone acts as a Remote control for the drone.
